@@ -18,6 +18,6 @@ Jetpack Compose | 1.4.3
 ### App Display Images
 
 Main Empty UI  | Main UI | Operation Process
-------------- | ------------- 
+------------- | ------------- | ------------- 
 <a><img src="https://github.com/yigityesiladaa/android_calculator_with_jetpack_compose/blob/master/app_displays/empty_main.png" width="300" height="600" /></a> | <a><img src="https://github.com/yigityesiladaa/android_calculator_with_jetpack_compose/blob/master/app_displays/filled_main.png" width="300" height="600" /></a> | <a><img src="https://github.com/yigityesiladaa/android_calculator_with_jetpack_compose/blob/master/app_displays/calculator.gif" width="300" height="600" /></a>
 
